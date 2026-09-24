@@ -13,6 +13,8 @@
   <Project Path="Example08/Example08.vcxproj" Id="da1e15bd-7392-42ed-b244-53ef73097558" />
   <Project Path="Example09/Example09.vcxproj" Id="f955215d-c2b5-460e-aa12-654792e0688f" />
   <Project Path="Example10/Example10.vcxproj" Id="1b26684a-84d5-4949-b5d2-b203bc103557" />
+  <Project Path="Example100/Example100.vcxproj" Id="015b44fa-c1c6-49d4-b1b1-c486289b4875" />
+  <Project Path="Example101/Example101.vcxproj" Id="4fd52dc4-3259-4f37-b5e4-a912c298aeaf" />
   <Project Path="Example11/Example11.vcxproj" Id="75d0ed24-1085-40db-b9f9-7e52b6e7aa95" />
   <Project Path="Example12/Example12.vcxproj" Id="6b707162-cb8b-4901-a486-fa71b1399418" />
   <Project Path="Example13/Example13.vcxproj" Id="4a4c445c-98e5-4101-8d7d-8c8afb8536b9" />
@@ -80,10 +82,24 @@
   <Project Path="Example70/Example70.vcxproj" Id="b31e4204-0213-4c47-9a36-f50bb2204a6b" />
   <Project Path="Example71/Example71.vcxproj" Id="c3e5eb9c-9525-47de-a66e-6d9641b01d91" />
   <Project Path="Example72/Example72.vcxproj" Id="4312d45b-8f60-4e7f-9b61-74296381a478" />
+  <Project Path="Example73/Example73.vcxproj" Id="a68ce227-039c-491d-bf58-526f434cff88" />
   <Project Path="Example74/Example74.vcxproj" Id="77bf2265-9be7-420f-9fbc-bf0b07b83127" />
   <Project Path="Example75/Example75.vcxproj" Id="e63ddad3-d913-4f95-9a7b-4269b503c92a" />
+  <Project Path="Example76/Example76.vcxproj" Id="ec4596f5-d88f-45d6-a895-ed55cc375637" />
+  <Project Path="Example77/Example77.vcxproj" Id="cb8c62dc-bd5e-41ee-a68c-6fe9b41027df" />
+  <Project Path="Example78/Example78.vcxproj" Id="3d35e745-f0c5-4bbb-a310-9073a0ebe79c" />
+  <Project Path="Example79/Example79.vcxproj" Id="4a2d498c-deb7-4892-aa59-573b328e8588" />
+  <Project Path="Example80/Example80.vcxproj" Id="759353ea-170c-4148-b295-d32e54c66836" />
+  <Project Path="Example81/Example81.vcxproj" Id="729830e6-80fe-44c4-9c6d-bb7b911209f9" />
+  <Project Path="Example82/Example82.vcxproj" Id="f68dd182-6df8-473b-85ab-3ed925c9235b" />
+  <Project Path="Example83/Example83.vcxproj" Id="a33211e8-b859-4c2c-9459-63bfe12604db" />
   <Project Path="Exercise01/Exercise01.vcxproj" Id="ad8c15ed-0c58-4d5f-909c-65f6b19da02b" />
   <Project Path="Exercise02/Exercise02.vcxproj" Id="8ad4afc5-88c6-4f2a-a81a-6009368caa89" />
+  <Project Path="Exercise03/Exercise03.vcxproj" Id="58324c55-23f3-40f4-b939-5cc0585157b8" />
+  <Project Path="Exercise04/Exercise04.vcxproj" Id="93e2c546-35d3-47dd-8a41-3b393dd9bea3" />
   <Project Path="Exercise05.1/Exercise05.1.vcxproj" Id="c5265bf6-9c8d-4f7d-ac98-2bb836cd28e3" />
   <Project Path="Exercise05/Exercise05.vcxproj" Id="73811d0c-6457-44e1-a834-edf7d1d56452" />
+  <Project Path="Exercise06/Exercise06.vcxproj" Id="10157418-8762-44d1-817a-2579b82e5079" />
+  <Project Path="Exercise07/Exercise07.vcxproj" Id="5d088148-6a5c-48ef-9646-49df99d1845e" />
+  <Project Path="Exercise08/Exercise08.vcxproj" Id="6b24c06b-7c93-44ca-8647-ed4fdd9747ea" />
 </Solution>
